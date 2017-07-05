@@ -1,0 +1,9 @@
+[submodule "Master"]
+	path = Master
+	url = git@github.com:tijeff/PolitiquesBranchesGitPasDeBranche.git
+[submodule "MasterUS"]
+	path = MasterUS
+	url = git@github.com:tijeff/PolitiquesBranchesUneBrancheParUS.git
+[submodule "MasterSprintUS"]
+	path = MasterSprintUS
+	url = git@github.com:tijeff/PolitiquesBranchesUneBrancheParSprintParUS.git
